@@ -1,6 +1,8 @@
 $(document).ready(function(){
   $( "input[type='submit']").click(function() {
-  $( ".user" ).slideUp(5000);
-  //alert("hggfdfgg")
+  $( ".user" ).slideUp(3000);
   });
+  $( "input[type='next']").click(function() {
+  $( ".questions" ).slideUp();
+});
 });
