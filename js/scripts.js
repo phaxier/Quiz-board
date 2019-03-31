@@ -8,5 +8,9 @@ $(document).ready(function(){
   $( ".questions" ).toggle();
 });
 
+ //$ ('#submit').click(function() {
+//$( "input[type='radio']").click(function()
+ //$( ".questions" ).toggle();
+  // });
 
 });
