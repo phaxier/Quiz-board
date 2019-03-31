@@ -28,19 +28,13 @@ The html picks up the the code and runs it on the web page.
 
 
 Deployment
-The website can load using any web platform on any device
+The website can load using any web platform on any device. it has been deployed to the web.
 
 Built With
 Atom - The web framework used is javaScript, bootstrap, jquery, css and html
 
 BDD
-It can determine if the provided answer is wrong
 
-Example Input : no answered questions Example Output: 0 (No mark not awarded)
-
-Example Input : right answer Example Output: 25 (25 Marks awarded) It can determine if the provided answer is correct
-
-Example Input: Wrong answer Example Output: 0 (Mark not awarded)
 
 Versioning
 This is the only version available, see the tags on this repository. More versions and improvements to come up later
