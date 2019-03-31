@@ -17,3 +17,7 @@ h1{
 .user{
   background-color: wheat;
 }
+.answers{
+  display: none;
+  background-color: lightblue;
+}
